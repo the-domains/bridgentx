@@ -2,12 +2,13 @@ name: BridgeNTX
 favicon: null
 layout_spectrum: 0.7811097290832549
 typography_spectrum: 0.005416314583271742
+title: Research and Insights from Bridge Alliance
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-69459593-2
   facebook: null
   twitter: null
 opengraph:
