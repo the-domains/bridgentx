@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T17:46:43.177Z'
-dateModified: '2016-01-02T17:46:39.309Z'
+datePublished: '2016-01-02T18:13:47.515Z'
+dateModified: '2016-01-02T18:10:19.806Z'
 title: Bridge Alliance Blog
 author: []
 sourcePath: _posts/2016-01-02-bridge-alliance-blog.md
