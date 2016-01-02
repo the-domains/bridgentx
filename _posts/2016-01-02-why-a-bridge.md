@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-02T17:43:18.704Z'
-dateModified: '2016-01-02T17:43:08.769Z'
+datePublished: '2016-01-02T17:49:57.432Z'
+dateModified: '2016-01-02T17:49:41.419Z'
 title: Why a Bridge?
 author: []
+sourcePath: _posts/2016-01-02-why-a-bridge.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-why-a-bridge.md
-published: true
 url: why-a-bridge/index.html
 _type: Article
 
@@ -31,7 +31,6 @@ It's funny the number of people with opinions about your brand when you start a 
 "That sounds really generic"
 
 "Have you done your research on SEO? You can't own BridgeAlliance.com?"
-![Bridge Blueprint](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e1b6f37-724b-4c19-bf2a-da83865e4842.jpg)
 
 Yes, there are many different reasons and ways to name a company and I believe in the creative concept process that is rooted in the values and mission of the company.
 
@@ -41,10 +40,17 @@ The Bridge Alliance is a program that brings together Enterprise, Startups and A
 
 # So, here we go on why it's called Bridge Alliance.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c7cbca-59e9-4262-9c93-4a45ce36c36a.jpg)
+
+# Bridges Cross Chasms
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d42b61-3215-457f-9c25-b5878feda0b4.jpg)
+
+# Bridges Bring People Together
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d99505bc-c2df-4bbf-92b3-5a8bb5ad1699.jpg)
 
+# Bridges Connect Communities
+
 To learn more about the Bridge Alliance. [Visit us website][0] or follow us on [Facebook][1] and [Twitter][2]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9a6f1d5-237b-485f-b4c8-0873f5d8f5bf.jpg)
 
 [0]: https://BridgeAlliance.co/
 [1]: https://www.facebook.com/BridgeNTX
