@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T17:13:23.974Z'
-dateModified: '2016-01-02T17:12:21.136Z'
+datePublished: '2016-01-02T17:46:43.177Z'
+dateModified: '2016-01-02T17:46:39.309Z'
 title: Bridge Alliance Blog
 author: []
+sourcePath: _posts/2016-01-02-bridge-alliance-blog.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-bridge-alliance-blog.md
-published: true
 url: bridge-alliance-blog/index.html
 _type: Article
 
