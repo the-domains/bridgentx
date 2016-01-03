@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Why did you name it Bridge Alliance?
-datePublished: '2016-01-03T21:48:19.438Z'
-dateModified: '2016-01-03T21:48:07.078Z'
+datePublished: '2016-01-03T21:58:50.350Z'
+dateModified: '2016-01-03T21:58:43.256Z'
 title: Why a Bridge?
 author: []
 sourcePath: _posts/2016-01-02-why-a-bridge.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Why a Bridge?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33b2db610fb9c79260061f8dd81ca35966407a44.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b9ec6116cd18da22cc9a0d910113dc8b508dec5.jpg)
 
 It's funny the number of people with opinions about your brand when you start a new company. It seems like a common theme comes up when we start talking about the Bridge Alliance. 
 
@@ -43,7 +43,7 @@ So, here we go on why it's called Bridge Alliance.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a7477540eb4ac581438339f26cb5895c4871229.jpg)
 
 # Bridges Cross Chasms
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/db938fdba9177006543492db577f959db3d62c82.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0c199eab858d72e490ee880b1517a6ab0f343b8d.jpg)
 
 # Bridges Bring People Together
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bdb01c63c765b17f00eb764f0ab7218bf4379b1.jpg)
