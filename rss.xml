@@ -4,21 +4,14 @@
         <description><![CDATA[Bridge Alliance Blog]]></description>
         <link>https://thegrid.ai/bridgentx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 22:31:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 16:47:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bridgentx/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Bridge Alliance Blog]]></title>
-            <description><![CDATA[<article><h1>Bridge Alliance Blog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f82220b100868e1e28458af75f343d1cd8bb4c8.png"></article>]]></description>
-            <link>https://thegrid.ai/bridgentx/bridge-alliance-blog/index.html</link>
-            <guid isPermaLink="false">137bf559-9052-440e-9f6b-008f734eef84</guid>
-            <pubDate>Sat, 02 Jan 2016 22:31:01 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Why a Bridge?]]></title>
             <description><![CDATA[<article><h1>Why a Bridge?</h1><p>Why did you name it Bridge Alliance?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33b2db610fb9c79260061f8dd81ca35966407a44.jpg"></article>]]></description>
             <link>https://thegrid.ai/bridgentx/why-a-bridge/index.html</link>
             <guid isPermaLink="false">7a9c8d5e-df9f-4fda-9b1c-b62c8724dcc2</guid>
-            <pubDate>Sat, 02 Jan 2016 22:27:42 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 16:47:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
