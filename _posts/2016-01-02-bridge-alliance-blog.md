@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T22:31:01.208Z'
-dateModified: '2016-01-02T22:30:53.059Z'
+datePublished: '2016-01-03T16:36:56.935Z'
+dateModified: '2016-01-03T16:36:12.322Z'
 title: Bridge Alliance Blog
 author: []
 sourcePath: _posts/2016-01-02-bridge-alliance-blog.md
@@ -18,12 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: bridge-alliance-blog/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Bridge Alliance Blog
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3900430f-92ac-468f-9a50-80cb468bcaff.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f82220b100868e1e28458af75f343d1cd8bb4c8.png)
 
 # Research and Insights from the Bridge Alliance
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfd742b0-ef64-4fd4-bc10-6fa9addbaa23.jpg)
