@@ -1,6 +1,6 @@
 name: BridgeNTX
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49859
 typography_spectrum: 0.24237
 title: Bridge Alliance Blog
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fedc00'
     - '#06019b'
     - '#c747ff'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.6875
   saturation: 0.8125
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
