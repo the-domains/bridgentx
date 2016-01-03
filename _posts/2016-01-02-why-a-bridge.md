@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why did you name it Bridge Alliance?
-datePublished: '2016-01-03T16:47:34.043Z'
-dateModified: '2016-01-03T16:47:29.495Z'
+datePublished: '2016-01-03T16:50:00.869Z'
+dateModified: '2016-01-03T16:49:52.612Z'
 title: Why a Bridge?
 author: []
 sourcePath: _posts/2016-01-02-why-a-bridge.md
@@ -40,13 +40,13 @@ I believe that branding is defined by what you do, how you do it and why you do 
 The Bridge Alliance is a program that brings together Enterprise, Startups and Academia in the spirit of Innovation. All other execution elements of website, color palette, business cards, SEO need to support this ideal. If the reasons to name a company are because of execution reasons, those quite frankly are not good reasons.
 
 So, here we go on why it's called Bridge Alliance.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c7cbca-59e9-4262-9c93-4a45ce36c36a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1ad25a8cdaf68860169581a7f57514cc92c7ee0.jpg)
 
 # Bridges Cross Chasms
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/22d42b61-3215-457f-9c25-b5878feda0b4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f850b712c410ea996757be48da8cbe1dbd251c2a.jpg)
 
 # Bridges Bring People Together
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d99505bc-c2df-4bbf-92b3-5a8bb5ad1699.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/214ff5461327e46451629404e2e3c9bb1f6b56ae.jpg)
 
 # Bridges Connect Communities
 
