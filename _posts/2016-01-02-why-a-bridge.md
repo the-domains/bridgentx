@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Why did you name it Bridge Alliance?
-datePublished: '2016-01-03T22:16:33.423Z'
-dateModified: '2016-01-03T22:16:26.710Z'
+datePublished: '2016-01-03T22:18:40.540Z'
+dateModified: '2016-01-03T22:18:29.292Z'
 title: Why a Bridge?
 author: []
 sourcePath: _posts/2016-01-02-why-a-bridge.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: why-a-bridge/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Why a Bridge?
