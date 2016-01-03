@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why did you name it Bridge Alliance?
-datePublished: '2016-01-03T22:02:14.533Z'
-dateModified: '2016-01-03T22:01:47.928Z'
+datePublished: '2016-01-03T22:05:27.049Z'
+dateModified: '2016-01-03T22:05:13.285Z'
 title: Why a Bridge?
 author: []
 sourcePath: _posts/2016-01-02-why-a-bridge.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Why a Bridge?
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/310c5bcefe8808900525ad156026506b87c85796.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/072909af90c699da4349f1d5f7aa12d250bd1a70.jpg)
 
 It's funny the number of people with opinions about your brand when you start a new company. It seems like a common theme comes up when we start talking about the Bridge Alliance. 
 
