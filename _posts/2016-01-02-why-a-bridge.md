@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Why did you name it Bridge Alliance?
-datePublished: '2016-01-02T22:27:42.069Z'
-dateModified: '2016-01-02T22:27:20.512Z'
+datePublished: '2016-01-03T16:47:34.043Z'
+dateModified: '2016-01-03T16:47:29.495Z'
 title: Why a Bridge?
 author: []
 sourcePath: _posts/2016-01-02-why-a-bridge.md
@@ -23,6 +23,7 @@ _type: Article
 
 ---
 # Why a Bridge?
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/33b2db610fb9c79260061f8dd81ca35966407a44.jpg)
 
 It's funny the number of people with opinions about your brand when you start a new company. It seems like a common theme comes up when we start talking about the Bridge Alliance. 
 
@@ -31,7 +32,6 @@ It's funny the number of people with opinions about your brand when you start a 
 "That sounds really generic"
 
 "Have you done your research on SEO? You can't own BridgeAlliance.com?"
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5ade26aa4dd7d21cadd38e7e9398da6d91fc395.jpg)
 
 Yes, there are many different reasons and ways to name a company and I believe in the creative concept process that is rooted in the values and mission of the company.
 
