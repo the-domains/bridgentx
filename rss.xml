@@ -4,11 +4,18 @@
         <description><![CDATA[Bridge Alliance Blog]]></description>
         <link>https://thegrid.ai/bridgentx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 01:48:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 01:48:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bridgentx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[How to move from imitation to innovation - InVision Blog]]></title>
+            <description><![CDATA[<article><h1>How to move from imitation to innovation - InVision Blog</h1><p>When I start a new project, I immediately go into research mode. I spend hours looking at other sites, products, and apps to see if the purpose of the product is clear. I'm looking at the ease of navigation. I'm looking to see if every part of the experience helps guide the user to their end goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2fff1e9c3d12356470b77ec64248cd2019fac2a.jpg"></article>]]></description>
+            <link>http://blog.invisionapp.com/imitation-to-innovation/</link>
+            <guid isPermaLink="false">489ccfb2-caa2-464e-a307-67576691e35e</guid>
+            <pubDate>Tue, 16 Feb 2016 01:40:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Big Auto Searches for Meaning Beyond Selling Cars]]></title>
-            <description><![CDATA[<article><h1>Big Auto Searches for Meaning Beyond Selling Cars</h1><p>Car companies from Ford to BMW take a page from Silicon Valley's playbook to offer transportation services, in some cases without a real business model in mind. The Ford Motor Company unveiled its new Fusion sedan and powerful F-150 Raptor pickup truck last week at the 2016 Detroit auto show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c5b9e40105243d7cf61a37b4933164e55930d171.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Big Auto Searches for Meaning Beyond Selling Cars</h1><p>Car companies from Ford to BMW take a page from Silicon Valley's playbook to offer transportation services, in some cases without a real business model in mind. The Ford Motor Company unveiled its new Fusion sedan and powerful F-150 Raptor pickup truck last week at the 2016 Detroit auto show.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63bfedaf60b32b1174f9f633ecfd56237a884d77.jpg"></article>]]></description>
             <link>https://www.technologyreview.com/s/545646/big-auto-searches-for-meaning-beyond-selling-cars/</link>
             <guid isPermaLink="false">268fef38-17aa-4fa6-adcc-fdcfdfeb6953</guid>
             <pubDate>Tue, 16 Feb 2016 01:40:30 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A Leader's Framework for Decision Making</h1><p>In January 1993, a gunman murdered seven people in a fast-food restaurant in Palatine, a suburb of Chicago. In his dual roles as an administrative executive and spokesperson for the police department, Deputy Chief Walter Gasior suddenly had to cope with several different situations at once.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80ad4d832a5fcf97c0f25216e2b55b059e4f6b3e.jpg"></article>]]></description>
             <link>https://hbr.org/2007/11/a-leaders-framework-for-decision-making</link>
             <guid isPermaLink="false">b0288b7d-c840-48f5-8b52-3c1933d33a31</guid>
-            <pubDate>Mon, 04 Jan 2016 14:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GE Open Innovation]]></title>
-            <description><![CDATA[<article><h1>GE Open Innovation</h1><p>GE understands solving the world's toughest problems through advanced manufacturing techniques and processes requires collaboration. By crowdsourcing innovation-both internally and externally-GE is improving customer value and driving advancements across industries. By sourcing and supporting innovative ideas, wherever they might come from, and applying GE's scale and expertise, GE's approach to open innovation is helping to address customer needs more efficiently and effectively.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/753ffe6a9793e0c73bc4ffc68917c75845e748d4.jpg"></article>]]></description>
-            <link>http://www.ge.com/about-us/openinnovation</link>
-            <guid isPermaLink="false">f80c9991-0243-46bf-bb14-dfaef8655f27</guid>
             <pubDate>Mon, 04 Jan 2016 14:27:52 GMT</pubDate>
         </item>
     </channel>
