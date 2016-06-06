@@ -4,8 +4,15 @@
         <description><![CDATA[Bridge Alliance Blog]]></description>
         <link>https://thegrid.ai/bridgentx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 17:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2016 17:40:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bridgentx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[a16z Podcast: The Art of the Regulatory Hack]]></title>
+            <description><![CDATA[<article><h1>a16z Podcast: The Art of the Regulatory Hack</h1><p>If the next 20 years of startup-led tech innovation are going to be about addressing massive problems - like health, energy, transportation, cities, education, and more - it will mean more directly confronting (instead of stealthily bypassing) regulatory barriers and incumbent-driven regulatory capture challenges. So how can startups "growth hack" in a highly regulated sector?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c499f90bddc20914a8f635bf9b8e0a4f47b640.png"></article>]]></description>
+            <link>http://a16z.com/2016/05/16/regulatory-hacking/</link>
+            <guid isPermaLink="false">2a3ef034-57f8-4c37-bb5a-1337f6eb9cd5</guid>
+            <pubDate>Mon, 06 Jun 2016 17:39:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Virtual Art Sessions]]></title>
             <description><![CDATA[<article><h1>Virtual Art Sessions</h1><p>Virtual Art Sessions is a Chrome Experiment using Tilt Brush. Explore six world-renowned, diverse artists paint in virtual reality from any angle. Created for Google Chrome.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a30acdae4639045bfeb1566976ac5b06a449c979.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Prize-winning technology to make the desert bloom</h1><p>Line in the sand: New technology could transform poor-quality sandy soils into high-yield agricultural land. Through a combination of climate change, drought, overgrazing and other human activities, desertification across the world is on the march. It's a process defined by the UN as "land degradation in arid, semi-arid and dry sub-humid regions".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ada74e2fe6b26a6dca80d08b4b687047553a9b.jpg"></article>]]></description>
             <link>http://www.theengineer.co.uk/prize-winning-technology-to-make-the-desert-bloom/?cmpid=tenews_1866392</link>
             <guid isPermaLink="false">88dfb21b-f4b4-4525-a1ba-4798c78705c9</guid>
-            <pubDate>Tue, 16 Feb 2016 01:40:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to move from imitation to innovation - InVision Blog]]></title>
-            <description><![CDATA[<article><h1>How to move from imitation to innovation - InVision Blog</h1><p>When I start a new project, I immediately go into research mode. I spend hours looking at other sites, products, and apps to see if the purpose of the product is clear. I'm looking at the ease of navigation. I'm looking to see if every part of the experience helps guide the user to their end goal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bd2e89de7f27cc6d71ed5b559ce1d7c23a44e66.jpg"></article>]]></description>
-            <link>http://blog.invisionapp.com/imitation-to-innovation/</link>
-            <guid isPermaLink="false">489ccfb2-caa2-464e-a307-67576691e35e</guid>
             <pubDate>Tue, 16 Feb 2016 01:40:30 GMT</pubDate>
         </item>
     </channel>
