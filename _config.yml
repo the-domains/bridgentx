@@ -19,12 +19,15 @@ analytics:
   google: UA-69459593-2
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/29a625f4-c2e9-4db5-8fcc-a7b8150c97ef.png
 name: Bridge Alliance Blog
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b33aaad7-b5a1-42e3-9bc0-890186810115.png
 title: Bridge Alliance Blog
 description: Connecting Corporations with Startups
 purpose: []
