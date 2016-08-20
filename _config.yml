@@ -1,20 +1,4 @@
-name: Bridge Alliance Blog
-favicon: null
-layout_spectrum: 0.2574
 typography_spectrum: 0.52125
-title: Bridge Alliance Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-69459593-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,21 @@ color:
   lightness: 1
   saturation: 1
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2574
+analytics:
+  google: UA-69459593-2
+  facebook: null
+  twitter: null
+name: Bridge Alliance Blog
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Bridge Alliance Blog
+description: Connecting Corporations with Startups
 purpose: []
