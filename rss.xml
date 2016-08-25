@@ -4,8 +4,15 @@
         <description><![CDATA[Bridge Alliance Blog]]></description>
         <link>https://thegrid.ai/bridgentx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 06 Jun 2016 17:40:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 13:45:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bridgentx/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Meet Frisco's Ken Koo, who helps big business spot a startup's upside | Dallas Morning News]]></title>
+            <description><![CDATA[<article><h1>Meet Frisco's Ken Koo, who helps big business spot a startup's upside | Dallas Morning News</h1><p>Ultimately, when you have a B2B [business-to-business] startup, that's your client. The problem I'm seeing from the startup side is they have a challenging time getting in front of the buyers. There's probably a lack of understanding of the process. They're randomly calling people or trying to connect or network with people to get 30 minutes.</p><img src="http://dallasnews.imgix.net/1471623026-NSB_17koo02.jpg?w=1200&h=630&format=jpg&crop=faces&fit=crop"></article>]]></description>
+            <link>http://beta.dallasnews.com/business/entrepreneurs/2016/08/22/meet-friscos-ken-koo-whose-company-acts-matchmaker-startups</link>
+            <guid isPermaLink="false">6c7a8b42-a4f4-42d9-b5b7-2cf436af5d86</guid>
+            <pubDate>Thu, 25 Aug 2016 13:45:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[a16z Podcast: The Art of the Regulatory Hack]]></title>
             <description><![CDATA[<article><h1>a16z Podcast: The Art of the Regulatory Hack</h1><p>If the next 20 years of startup-led tech innovation are going to be about addressing massive problems - like health, energy, transportation, cities, education, and more - it will mean more directly confronting (instead of stealthily bypassing) regulatory barriers and incumbent-driven regulatory capture challenges. So how can startups "growth hack" in a highly regulated sector?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08c499f90bddc20914a8f635bf9b8e0a4f47b640.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thecommondesk.com/blog/the-22-hottest-startups-in-dallas</link>
             <guid isPermaLink="false">3aace750-381f-41f5-8512-9cb34c66a579</guid>
             <pubDate>Sat, 20 Feb 2016 01:33:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prize-winning technology to make the desert bloom]]></title>
-            <description><![CDATA[<article><h1>Prize-winning technology to make the desert bloom</h1><p>Line in the sand: New technology could transform poor-quality sandy soils into high-yield agricultural land. Through a combination of climate change, drought, overgrazing and other human activities, desertification across the world is on the march. It's a process defined by the UN as "land degradation in arid, semi-arid and dry sub-humid regions".</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d1ada74e2fe6b26a6dca80d08b4b687047553a9b.jpg"></article>]]></description>
-            <link>http://www.theengineer.co.uk/prize-winning-technology-to-make-the-desert-bloom/?cmpid=tenews_1866392</link>
-            <guid isPermaLink="false">88dfb21b-f4b4-4525-a1ba-4798c78705c9</guid>
-            <pubDate>Tue, 16 Feb 2016 01:40:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
